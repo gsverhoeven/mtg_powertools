@@ -10,6 +10,14 @@ Produces this output from three separate photos:
 
 ![](output.jpg)
 
+# Usage
+
+```
+cd test/
+../create_appended_files.sh
+```
+
+
 # Software versions
 
 Tested on Ubuntu 18.04LTS, with `ImageMagick 6.9.7-4 Q16 x86_64 20170114` and `exiftool 10.80`.
