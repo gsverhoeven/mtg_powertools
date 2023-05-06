@@ -1,0 +1,9 @@
+/*
+!create_appended_files.sh
+!test/
+!test/*
+!output.jpg
+test/*/output.jpg
+!.gitignore
+
+
