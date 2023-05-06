@@ -8,7 +8,7 @@ Use case is the constraint imposed by Cardmarket of only allowing a single JPG f
 
 Produces this output from three separate photos:
 
-![output.jpg]
+![](output.jpg)
 
 # Software versions
 
