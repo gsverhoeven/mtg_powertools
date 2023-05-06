@@ -7,7 +7,7 @@ for D in ./*; do
         cd "$D"
         rm ./output.jpg
         echo "$D"
-        convert '*.JPG' -auto-orient -resize 25% -rotate 90> +append output.jpg
+        convert '*.JPG' -auto-orient -resize 25% -rotate '-90>' +append output.jpg
         cd ..
     fi
 done
